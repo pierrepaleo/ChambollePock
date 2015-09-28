@@ -15,8 +15,6 @@ There is also an implementation of conjugate gradient using a smoothed TV descri
 Simply download and execute the sample scripts.
 For tomographic reconstruction, the [ASTRA toolbox](https://github.com/astra-toolbox/astra-toolbox) version **1.6** should be installed beforehand.
 
-**Note** : if you install ASTRA from Github, please checkout the [commit 9f86a4c3f20ac8785f80288ec4cdefe79ed67e68](https://github.com/astra-toolbox/astra-toolbox/tree/9f86a4c3f20ac8785f80288ec4cdefe79ed67e68) before compiling.
-The next versions have [garbage collection issues](https://github.com/astra-toolbox/astra-toolbox/issues/9) which are not fixed to this date.
 
 ## Usage
 
